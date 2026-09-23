@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.bamf_venom.twa",
+      "sha256_cert_fingerprints": [
+        "F2:2D:5E:D4:AD:27:46:3C:18:0A:D1:86:E4:13:1B:4B:03:3E:4C:7C:88:EA:EF:16:A3:98:3A:72:7C:A0:9B:E7"
+      ]
+    }
+  }
+]
